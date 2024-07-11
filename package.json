@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://Gaurav1924.github.io/Prompt-share",
-    
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
